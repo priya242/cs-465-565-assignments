@@ -1,0 +1,108 @@
+.main{
+    height: 100rem;
+}
+.page1{
+    height: 50%;
+}
+
+.page2{
+    height:50%:
+}
+
+.canyon-img{
+    width: 100%;
+    opacity:0.7;
+    height: 99%;
+}
+
+
+
+.profile-section{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top:10%;
+    left:20%;
+    color:rgb(51, 5, 5);
+}
+
+.profile-icon{
+    width: 30%;
+    border-radius:30px;
+}
+
+.sidenav{
+    height: 99%;
+    width:160px;
+    background-color:brown;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+  
+}
+
+.sidenav a{
+    display: block;
+    padding:30px; 
+    color:#fff;
+    font-family: "Lato", sans-serif;
+    text-decoration: none;
+    font-weight:bolder;
+}
+
+.sidenav a:hover{
+color:lightcoral;
+}
+
+.fab{
+    font-size: 2rem;
+    color:#fff;
+    display:block;
+    text-align: center;
+    margin-bottom:1rem;
+}
+
+div > .fab:first-child{
+margin-top:20rem;
+}
+
+.about{
+    position: relative;
+    bottom:100%;
+    color: rgb(51, 5, 5);
+    font-size: larger;
+    column-count: 4;
+    column-gap: 40px;
+    column-rule-style: solid;
+    text-align: center;
+    margin-top:20rem;
+    
+}
+
+.resume{
+    width:100%;
+    height:100rem;
+}
+
+.portfolio{
+    position: relative;
+    bottom: 100%;
+    color: rgb(51, 5, 5);
+    
+}
+
+.row{
+    margin:3rem;
+}
+
+.card{
+    background-color:transparent;
+    
+    border: transparent;
+}
+
+.card-img-top{
+    height:12rem;
+}
+
+

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+function getSize() {
+  var w = window.innerWidth;
+  var h = window.innerHeight;
+  document.getElementById("width").innerHTML = "Width: " + w 
+  document.getElementById("height").innerHTML = "Height: " + h; 
+  
+}
+</script>
+<body
+onload="getSize()" onresize="getSize()">
+<div><label id = "width"></label></div>
+<div><label id = "height"></label></div>
+</body>

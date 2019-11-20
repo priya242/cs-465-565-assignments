@@ -1,0 +1,43 @@
+
+.col-sm-1{
+ background-color:navy;
+ color:white;
+ margin:auto;
+ border:1px solid white;
+
+}
+
+.col-sm-3{
+    background-color: purple;
+    color:white;
+ margin:auto;
+ border:1px solid white;
+}
+
+.col-md-4{
+    background-color: darkcyan;
+    color:white;
+ margin:auto;
+ border:1px solid white;
+}
+
+.col-md-6{
+    background-color: yellowgreen;
+    color:white;
+ margin:auto;
+ border:1px solid white;
+}
+
+.col-md-8{
+    background-color: salmon;
+    color:white;
+ margin:auto;
+ border:1px solid white;
+}
+
+.col-lg-12{
+    background-color: green;
+    color:white;
+ margin:auto;
+ border:1px solid white;
+}

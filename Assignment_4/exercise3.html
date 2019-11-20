@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    
+        <script type = "text/javascript"> 
+        function myfunction(){
+        console.log("First name: ",this.event.target[0].value);
+        console.log("Last name: ",this.event.target[1].value);
+        console.log("Email: ", this.event.target[2].value);
+        console.log("Undergradute Student: ", this.event.target[3].value);
+        console.log("Graduate Student: ", this.event.target[4].value);
+        }
+        </script>
+    
+</head>
+
+<body>
+    <div class="container border w-25 mt-5">
+        <form onsubmit="myfunction(event.preventDefault())">
+        <div class="row pl-3">
+            <div class="form-group col-lg-12">
+                <div class="pb-3 text-center">
+                    <h3>HTML FORM</h3>
+                </div>
+                <div><label>First Name</label></div>
+                <input class="form-control" type="text">
+
+                <div><label>Last Name</label></div>
+                <input class="form-control" type="text">
+
+                <div><label>Email</label></div>
+                <input class="form-control" type="email">
+
+            
+                <div class="form-check">
+                <input type="radio" class="form-check-input" name="UnderGrad" value="undergraduate"> 
+                <div class="pl-4"><label>Undergraduate Student</label></div>
+                <input type="radio" class="form-check-input" name="Graduate" value="graduate"> 
+                <div class="pl-4"><label>Graduate Student</label></div>
+                </div>
+
+                <button type="submit" class="btn btn-primary mt-3" id = "button1" value = "Submit">Submit</button>
+                <button type="reset" class="btn btn-secondary mt-3" id = "button2" value = "Reset">Reset</button>
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>
