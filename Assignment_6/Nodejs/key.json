@@ -1,0 +1,20 @@
+{
+    "type": "service_account",
+    "project_id": "my-nodejs-codelab-1217-259219",
+    "private_key_id": "8908f2cd5964d2e035abebcb330c1fd4cd8c2936",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDeAserOEW7Ial\n9b2SuXWSGGHdT9zDPHYhHkiovB4hRoVN9O1uL6b4FwpIMnXYfivwtamGSKIAIk6r\nGZZzhcwcxGij+FkKAh
+  5lCTjE/mDwc1aeOe15F1Vp6kODQfWWN4FX/K0uPASzptvV\nbHGXrXa2cnVObB5bJreLPY6N8CnUt87Ecg9ubKHArtZdRmaUPRMROX57V3LYnJoc\n6x2hQeiiTLlWOufPAt+q7x2RyrAEB2mS0ACcHR+Qwllbhlq/GdHSE3YxD30+bsQV\n+nGIWFFvlTGsmktr1
+  kF5JjmL0DnACXMKYdFj9pF1yZiOuxxVDDl2bD8VZzLpi00n\n/CZbvXE/AgMBAAECggEAA8GtWQgShVnDVrIr1AOLbmTYkKPFxtzFGmrWE6QV4ibU\nTgS8gWcaCt+Ke4u4txHpr0UWfnWr41vFbkVeHlc+bnkZ17jgoTAcPG3acPLAky5s\nRjsvxKl9ozz00jN0
+  0E+9xR6eh2pw3rEAvY/JeRRE2UnG1lx+ktriISNsN28bprJe\n/OSu5FDhK3FCOLYOOvlgRawXh77+Hf6MGRT1f7gBq/frLP/zJ5cUMhXoNkqdExVe\nu9immR+PlCfrqBy5oSzvoBaAW6jrLFqeCrw/qYvsIKjFbKIq+hAgtKg+674L6yRa\n5Ho6JeTPzOdP04D
+  g3oehfAVfxM9Kk4Ja2bWRfbj+RQKBgQD1UiBCOLIMXmkKmjRy\nZKvnLJGGsn403FYRd5qw/K0kafccLTcmFAEKhGlb9HKwOYrrm3qGXKpQ/G0iFY8r\nBSRwS6jSBRTrL7Z8vguXnXczLeh50Hb1Nfk94UMUn+YrBLaXyeSsezQ2n1Ix1Ls7\neKuJVV02bgVKuw
+  rUbC0ivf1a+wKBgQDL+l06QaptevuTD1YOZlKe0wAjuHtdsifS\nzsRDcpRH1TqnPOh9ObB48NebkMcA+G7pPa8F1BjtVBq3a0l0pm7Dy0tZ2WaidzxQ\naxThesRSef85DEpw5DwvPDqhNuwOsYMFXBt0W4FGD9z7cgFtvENqlcGI3tviH+Gn\n+jl6qibvjQKBg
+  QCnpRHqbzgtf68k0bCZo/ZdqnVgqUXZ9eDTWvrZjDL+OXPnS3bu\njKkReN9POcPObeRjkgKvI1A4u+gQbM9DxOXb37hknZhoCFka8fyWBcPZs7u00yMX\n+2RyRyhCRetS5oupOw0MWb2avlG7P/cbcyE2XqGueo0fPqbt92b44QDsVQKBgHvh\nT+FjpBfdixBj
+  TgZsyly/FOSc0/+xhVIYVUYJPljp/Tc4XJJBCRZKXweRw+qo9uMc\nnUFS8NiiLZ+bvv7jXX3354ln6VdeRvkoL4RJRRY6FXEWL9ekJZEiaREkA/VghYwp\nxlrCgB6G39SuBoQYxHDlBqcTgkMwzaFw7Ju83uy5AoGAArLyWyta6YqsbuIQvb3o\nhfzHWz/Viez
+  88fjk1av57YkIwvZCwgb0XWcdOX+Kbz1IG5BKhYv2rqLjdEMHjkfM\n2m42+bZ7zHjDZDsFmz805U4HO1qgjmTqOOeaQmocog6Q7ioYQb6M60mXLsD09xFH\nS+TTVuWLNmcYJBGvGwRtRrc=\n-----END PRIVATE KEY-----\n",
+    "client_email": "nodelab@my-nodejs-codelab-1217-259219.iam.gserviceaccount.com",
+    "client_id": "104282846223323183689",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nodelab%40my-nodejs-codelab-1217-259219.iam.gserviceaccount.com"
+  }
